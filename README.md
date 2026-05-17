@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Thanmaya
 
-<!--
-**thanmaya258/thanmaya258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=thanmaya258&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+## About Me
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am currently working on my GitHub profile.
+- I am learning as a 10th grade student.
+- Ask me about anything.
+- Pronouns: she/her.
+
+
+## Connect With Me
+
+- GitHub: [@thanmaya258](https://github.com/thanmaya258)
+
+## Quick Snapshot
+
+| Focus | Details |
+|---|---|
+| Current Work | Building and improving my GitHub profile |
+| Learning | School studies and coding basics |
+| Fun Fact | Always curious and ready to learn new things |
+
+---
+
+Thanks for visiting my profile.
