@@ -2,17 +2,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thanmaya258&label=Profile%20views&color=0e75b6&style=flat)
 
-## About Me
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
 
+$\color{pink}{\text{ ## About Me
 - I am currently working on my GitHub profile.
 - I am learning as a 10th grade student.
 - Ask me about anything.
-- Pronouns: she/her.
-
-$\color{pink}{\text{hi}}$
-
-## Connect With Me
+- Pronouns: she/her ## Connect With Me
 
 - GitHub: [@thanmaya258](https://github.com/thanmaya258)
 
@@ -27,3 +23,5 @@ $\color{pink}{\text{hi}}$
 ---
 
 Thanks for visiting my profile.
+}}$
+
