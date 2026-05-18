@@ -10,6 +10,7 @@
 - Ask me about anything.
 - Pronouns: she/her.
 
+$\color{pink}{\text{hi}}$
 
 ## Connect With Me
 
