@@ -3,14 +3,20 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=thanmaya258&label=Profile%20views&color=0e75b6&style=flat)
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
-## About Me
+
+About Me
 
 - I am currently working on my GitHub profile.
 - I am learning as a 10th grade student.
 - Ask me about anything.
-- Pronouns: she/her ## Connect With Me
+- Pronouns: she/her
+
+Connect With Me
 
 - GitHub: [@thanmaya258](https://github.com/thanmaya258)
+- LinkedIn: https://www.linkedin.com/in/thanmaya-thattaparambil-rishi-b51a103b6/
+- Youtube: https://www.youtube.com/@thanmayarishi
+- Gmail: thanmaya.rishi@gmail.com
 
 ## Quick Snapshot
 
