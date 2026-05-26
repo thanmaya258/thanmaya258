@@ -9,7 +9,7 @@ About Me
 
 - I am currently working on my GitHub profile.
 - I am learning as a 10th grade student.
-- Ask me about anything.
+- a page run by me @we_carebears.bcutd 
 - Pronouns: she/her
 
 Connect With Me
