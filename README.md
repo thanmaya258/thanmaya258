@@ -5,8 +5,6 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
 
-<img alt="Image" src="https://github.com/user-attachments/assets/56b8253b-f858-4680-ac36-f178b9c86915" min-width="200px" max-width="200px" width="200px" />
-
 About Me
 
 - I am currently working on my GitHub profile.
@@ -20,6 +18,8 @@ Connect With Me
 - LinkedIn: https://www.linkedin.com/in/thanmaya-thattaparambil-rishi-b51a103b6/
 - Youtube: https://www.youtube.com/@thanmayarishi
 - Gmail: thanmaya.rishi@gmail.com
+
+<img alt="Image" src="https://github.com/user-attachments/assets/56b8253b-f858-4680-ac36-f178b9c86915" min-width="200px" max-width="200px" width="200px" />
 
 ## Quick Snapshot
 
