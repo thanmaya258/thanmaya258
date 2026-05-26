@@ -1,8 +1,11 @@
 # Hi there, I'm Thanmaya
+#
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thanmaya258&label=Profile%20views&color=0e75b6&style=flat)
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
+
+<img alt="Image" src="https://github.com/user-attachments/assets/56b8253b-f858-4680-ac36-f178b9c86915" min-width="200px" max-width="200px" width="200px" />
 
 About Me
 
