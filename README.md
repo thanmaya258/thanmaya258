@@ -19,7 +19,6 @@ Connect With Me
 - Youtube: https://www.youtube.com/@thanmayarishi
 - Gmail: thanmaya.rishi@gmail.com
 
-<img alt="Image" src="https://github.com/user-attachments/assets/56b8253b-f858-4680-ac36-f178b9c86915" min-width="200px" max-width="200px" width="200px" />
 
 ## Quick Snapshot
 
