@@ -37,6 +37,20 @@ Quick Snapshot
 | **Papa's Pomodoro Pal** | Custom focus timer built for my dad with customizable work/break intervals.<br>🔗 [Live App](https://father-focus-timer.lovable.app/) • [Source Code](https://github.com/thanmaya258/papa-s-pomodoro-pal) | TypeScript, React, AI |
 | **Kitten Cafe Study Time** | Cozy study session tracker designed to make daily homework blocks engaging.<br>🔗 [Source Code](https://github.com/thanmaya258/kitten-cafe-study-time) | HTML, CSS, JS |
 ---
+<details>	
+ <summary><b>📝 Curated Articles</b></summary><br>
+
+
+I write regular blog posts, read it on my personal website [Portfolio](#)👇
+<br><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-fly-left.gif" min-width="300px" max-width="250px" width="275px" align="right"> 
+<br>
+  📘 [GitHub Cheat sheet | Complete Tutorials.](#)<br>
+  📙 [Develop SQL Skills, SQL for Dummies](#)<br>
+  📒 [How Single Sign-on Works - Case Study](#)<br>
+  📕 [The Retrospective of My 2025:](#)<br>
+  📗 [Mastering Your First 90 Days in Tech](#)<br>
+➡️ [more blog posts...](#)
+</details> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thanmaya258&label=Profile%20views&color=0e75b6&style=flat)
 
