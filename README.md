@@ -31,12 +31,11 @@ Quick Snapshot
 | Learning | School studies and coding basics |
 | Fun Fact | Always curious and ready to learn new things |
 
-| Project | What it does | Tech |
+
+| Project | Description & Links | Tech Stack |
 |---|---|---|
-| [Project 1](https://father-focus-timer.lovable.app/) | Pomodoro app build for my dad | HTML, CSS, JS |
-| [Project 2](https://github.com/thanmaya258/kitten-cafe-study-time) | Study time Tracker for me | HTML, CSS, JS |
-
-
+| **Papa's Pomodoro Pal** | Custom focus timer built for my dad with customizable work/break intervals.<br>🔗 [Live App](https://father-focus-timer.lovable.app/) • [Source Code](https://github.com/thanmaya258/papa-s-pomodoro-pal) | TypeScript, React, AI |
+| **Kitten Cafe Study Time** | Cozy study session tracker designed to make daily homework blocks engaging.<br>🔗 [Source Code](https://github.com/thanmaya258/kitten-cafe-study-time) | HTML, CSS, JS |
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thanmaya258&label=Profile%20views&color=0e75b6&style=flat)
