@@ -5,12 +5,12 @@ $ whoami
 <h1 align="center"> Hi there, I'm <a href="#">Thanmaya</a> </h1>
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="#">Portfolio</a> -
+  <a href="https://thanmaya258.github.io/thanmaya-portfolio/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/thanmaya-thattaparambil-rishi-b51a103b6/">LinkedIn</a> - 
   <a href="#">X</a> -
-  <a href="#">Website</a> -
+  <a href="https://www.recodehive.com/">Website</a> -
   <a href="https://www.youtube.com/@thanmayarishi">YouTube</a> -
-  <a href="#">Contact me.</a> 
+  <a href="https://www.linkedin.com/in/thanmaya-thattaparambil-rishi-b51a103b6">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
