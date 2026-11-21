@@ -16,7 +16,7 @@ $ whoami
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
 ✨ I am currently working on my GitHub profile. <br>
-🌱 I am 10th grade student, works on  a page run by me @we_carebears.bcutd  <br>
+🌱 I am 10th grade student, works on  my portfolio  <br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thanmaya-thattaparambil-rishi-b51a103b6)<br>
 👯 I'm learning opensource from [recodehive](https://github.com/recodehive/recode-website)<br>
 💬 Ask me about Community Building, Opensource <br>
