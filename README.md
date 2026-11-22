@@ -8,7 +8,7 @@ $ whoami
   <a href="https://thanmaya258.github.io/thanmaya-portfolio/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/thanmaya-thattaparambil-rishi-b51a103b6/">LinkedIn</a> - 
   <a href="#">X</a> -
-  <a href="https://www.recodehive.com/">Website</a> -
+  <a href="https://www.recodehive.com/u/thanmaya">Website</a> -
   <a href="https://www.youtube.com/@thanmayarishi">YouTube</a> -
   <a href="https://www.linkedin.com/in/thanmaya-thattaparambil-rishi-b51a103b6">Contact me.</a> 
 </p>
